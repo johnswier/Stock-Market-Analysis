@@ -1,3 +1,5 @@
+### README update in progress..
+
 # Stock Prices and Volume for 2014-2016 (New York Stock Exchange)
 
 What is the total stock volume during any given year for each individual stock? Which stocks had a net price increase and among these, what was the greatest % increase?
